@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Manrope:wght@200&family=Open+Sans:wght@600&family=Poppins:wght@400;500&family=Roboto&display=swap");
+header {
+  background-color: #171717;
+  min-height: 100vh;
+}
+.nav-link {
+  color: white;
+}
+
+/* .banner-text {
+  font-size: 2rem;
+  background: -webkit-linear-gradient(top, #0711ce, #00c9d4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+} */
+.service-section{
+  min-height: 100vh;
+  background-color: #171717d9;
+}
+.about-section{
+  min-height: 100vh;
+  background-color: #171717ea;
+}
+.portfolio-section{
+  min-height: 80vh;
+  background-color: #171717ea;
+}
+
+.contact-section{
+  min-height: 100vh;
+  background-color: #171717d9;
+}
+.resize-none{
+  resize: none;
+  height: 10rem;
+}
+footer{
+  min-height: 20vh;
+
+}
